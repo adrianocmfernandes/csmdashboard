@@ -12,27 +12,27 @@ One row per **club + upload_date** (30-day window aggregate).
 |---|---|---|
 | upload_date | `YYYY-MM-DD` | End date of the 30-day reporting window. |
 | club_name | string | Exact club name (must be consistent across files and periods). |
-| contract_seats | integer | Licensed seats for the club in that period. |
+| contract_seats | integer | Licensed seats for the club in that period - total number of users |
 | active_users | integer | Unique users active at least once in the 30-day window. |
 | reports_created | integer | Total reports created in the 30-day window. |
 | shortlist_edits | integer | Total shortlist edit actions in the 30-day window. |
 | searches_performed | integer | Total searches in the 30-day window. |
-| shortlists_usage | integer | Interactions with Shortlists feature. |
-| scouting_status_usage | integer | Interactions with Scouting Status feature. |
-| appointments_created | integer | Appointments created in the 30-day window. |
+| shortlists_usage | integer | Total Shortlists page visits. |
+| scouting_status_usage | integer | Total Scouting Status page visits. |
+| appointments_created | integer | Total Appointments created in the 30-day window. |
 | area_search_visits | integer | Area Search page visits. |
 | squad_planner_visits | integer | Squad Planner page visits. |
 | club2club_visits | integer | Club2Club page visits. |
-| speech2report_count | integer | Count of Speech2Report usage. |
-| lineup_detector_count | integer | Count of Lineup Detector usage. |
+| speech2report_count | integer | Count of Reports create through Speech2Report. |
+| lineup_detector_count | integer | Count of Matches created through Lineup Detector usage. |
 | push_alerts_sent | integer | Push notifications sent. |
 | mail_alerts_sent | integer | Email alerts sent. |
-| custom_dashboards_count | integer | Custom dashboards created/updated. |
-| players_created | integer | Players created in data/editor layer. |
-| teams_created | integer | Teams created in data/editor layer. |
-| matches_created | integer | Matches created in data/editor layer. |
-| data_conflicts_current | integer | Open/unresolved conflicts at period end. |
-| data_conflicts_resolved | integer | Conflicts resolved during period. |
+| custom_dashboards_count | integer | Custom dashboards active. |
+| players_created | integer | Players created in Editor layer. |
+| teams_created | integer | Teams created in editor layer. |
+| matches_created | integer | Matches created in editor layer. |
+| age_conflicts_current | integer | Open age conflicts at period end. |
+| age_conflicts_resolved | integer | Age conflicts resolved during period. |
 
 ---
 
