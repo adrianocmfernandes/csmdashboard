@@ -1,0 +1,517 @@
+upload_date,club_name,user_id,user_name,role,last_login_date,logins_30d,reports_created_30d,searches_30d
+2026-02-01,FC Bayern Munich,USR-20001,Admin User 1,Scout;Admin,2026-01-04,17,17,53
+2026-02-01,FC Bayern Munich,USR-20002,Admin User 2,Scout;Admin,2026-01-28,16,15,37
+2026-02-01,FC Bayern Munich,USR-20003,Admin User 3,Scout;Admin;Squad Planner,2026-01-13,20,15,49
+2026-02-01,FC Bayern Munich,USR-20004,Admin User 4,Scout;Admin,2026-01-22,14,12,53
+2026-02-01,FC Bayern Munich,USR-20005,Scout User 5,Scout;Club2Club,2026-01-08,15,14,41
+2026-02-01,FC Bayern Munich,USR-20006,Scout User 6,Scout,2026-01-31,11,10,35
+2026-02-01,FC Bayern Munich,USR-20007,Scout User 7,Scout;Squad Manager;Club2Club,2026-01-23,13,14,33
+2026-02-01,FC Bayern Munich,USR-20008,Scout User 8,Scout,2026-01-18,14,9,41
+2026-02-01,FC Bayern Munich,USR-20009,Scout User 9,Scout,2026-01-14,14,11,32
+2026-02-01,FC Bayern Munich,USR-20010,Scout User 10,Scout,2026-01-29,11,10,30
+2026-02-01,FC Bayern Munich,USR-20011,Scout User 11,Scout,2026-01-18,15,12,38
+2026-02-01,FC Bayern Munich,USR-20012,Scout User 12,Scout;Admin,2026-01-06,16,11,41
+2026-02-01,FC Bayern Munich,USR-20013,Scout User 13,Scout,2026-01-15,12,9,38
+2026-02-01,FC Bayern Munich,USR-20014,Scout User 14,Scout,2026-01-04,13,8,39
+2026-02-01,FC Bayern Munich,USR-20015,Scout User 15,Scout,2026-01-25,16,8,37
+2026-02-01,FC Bayern Munich,USR-20016,Scout User 16,Scout;Admin,2026-01-13,11,10,42
+2026-02-01,FC Bayern Munich,USR-20017,Scout User 17,Scout,2026-01-26,11,9,34
+2026-02-01,FC Bayern Munich,USR-20018,Scout User 18,Scout,2026-01-22,16,12,31
+2026-02-01,FC Bayern Munich,USR-20019,Scout User 19,Scout;Admin,2026-01-24,11,9,39
+2026-02-01,FC Bayern Munich,USR-20020,Scout User 20,Scout;Squad Manager,2026-01-08,16,11,35
+2026-02-01,FC Bayern Munich,USR-20021,Scout User 21,Scout,2026-01-26,13,9,34
+2026-02-01,FC Bayern Munich,USR-20022,Scout User 22,Scout;Club2Club,2026-01-06,15,13,32
+2026-02-01,FC Bayern Munich,USR-20023,Scout User 23,Scout;Squad Planner,2026-01-10,10,10,30
+2026-02-01,FC Bayern Munich,USR-20024,Scout User 24,Scout,2026-01-10,16,14,39
+2026-02-01,FC Bayern Munich,USR-20025,Scout User 25,Scout,2026-01-20,17,8,32
+2026-02-01,FC Bayern Munich,USR-20026,Scout User 26,Scout;Squad Manager,2026-01-12,11,14,35
+2026-02-01,FC Bayern Munich,USR-20027,Squad Manager User 27,Scout;Squad Manager,2026-01-22,6,8,28
+2026-02-01,FC Bayern Munich,USR-20028,Squad Manager User 28,Scout;Squad Manager,2026-01-11,14,5,25
+2026-02-01,FC Bayern Munich,USR-20029,Squad Manager User 29,Scout;Squad Manager,2026-01-07,9,6,23
+2026-02-01,FC Bayern Munich,USR-20030,Squad Manager User 30,Scout;Squad Manager,2026-01-20,12,11,24
+2026-02-01,FC Bayern Munich,USR-20031,Squad Manager User 31,Scout;Squad Manager;Admin,2026-01-20,13,6,22
+2026-02-01,FC Bayern Munich,USR-20032,Squad Manager User 32,Scout;Squad Manager;Admin,2026-01-03,13,9,28
+2026-02-01,FC Bayern Munich,USR-20033,Squad Manager User 33,Scout;Squad Manager;Squad Planner,2026-01-26,9,11,31
+2026-02-01,FC Bayern Munich,USR-20034,Squad Manager User 34,Scout;Squad Manager,2026-01-12,11,5,27
+2026-02-01,FC Bayern Munich,USR-20035,Squad Manager User 35,Scout;Squad Manager;Squad Planner,2026-01-08,10,11,25
+2026-02-01,FC Bayern Munich,USR-20036,Squad Manager User 36,Scout;Squad Manager;Club2Club,2026-01-20,7,7,27
+2026-02-01,FC Bayern Munich,USR-20037,Squad Manager User 37,Scout;Squad Manager,2026-01-22,13,6,21
+2026-02-01,FC Bayern Munich,USR-20038,Squad Planner User 38,Scout;Squad Planner,2026-01-24,5,8,17
+2026-02-01,FC Bayern Munich,USR-20039,Squad Planner User 39,Scout;Squad Planner,2026-01-23,6,4,18
+2026-02-01,FC Bayern Munich,USR-20040,Squad Planner User 40,Scout;Squad Planner;Admin,2026-01-18,5,4,26
+2026-02-01,FC Bayern Munich,USR-20041,Squad Planner User 41,Scout;Squad Planner,2026-02-01,5,8,17
+2026-02-01,FC Bayern Munich,USR-20042,Squad Planner User 42,Scout;Squad Planner;Squad Manager,2026-01-12,8,8,27
+2026-02-01,FC Bayern Munich,USR-20043,Squad Planner User 43,Scout;Squad Planner,2026-01-07,12,9,14
+2026-02-01,FC Bayern Munich,USR-20044,Squad Planner User 44,Scout;Squad Planner,2026-01-05,13,8,20
+2026-02-01,FC Bayern Munich,USR-20045,Squad Planner User 45,Scout;Squad Planner;Squad Manager,2026-01-12,11,8,24
+2026-02-01,FC Bayern Munich,USR-20046,Club2Club User 46,Scout;Club2Club,2026-01-12,7,3,26
+2026-02-01,FC Bayern Munich,USR-20047,Club2Club User 47,Scout;Club2Club,2026-01-31,8,5,26
+2026-02-01,FC Bayern Munich,USR-20048,Club2Club User 48,Scout;Club2Club,2026-01-05,5,3,15
+2026-02-01,FC Bayern Munich,USR-20049,Club2Club User 49,Scout;Club2Club,2026-01-09,11,4,26
+2026-02-01,FC Bayern Munich,USR-20050,Club2Club User 50,Scout;Club2Club,2026-01-28,7,5,19
+2026-03-01,FC Bayern Munich,USR-20001,Admin User 1,Scout;Admin,2026-02-24,17,14,43
+2026-03-01,FC Bayern Munich,USR-20002,Admin User 2,Scout;Admin,2026-02-14,20,16,44
+2026-03-01,FC Bayern Munich,USR-20003,Admin User 3,Scout;Admin;Squad Planner,2026-02-14,22,15,38
+2026-03-01,FC Bayern Munich,USR-20004,Admin User 4,Scout;Admin,2026-02-21,22,12,49
+2026-03-01,FC Bayern Munich,USR-20005,Scout User 5,Scout;Club2Club,2026-02-12,15,11,41
+2026-03-01,FC Bayern Munich,USR-20006,Scout User 6,Scout,2026-02-20,14,10,32
+2026-03-01,FC Bayern Munich,USR-20007,Scout User 7,Scout;Squad Manager;Club2Club,2026-02-02,12,9,34
+2026-03-01,FC Bayern Munich,USR-20008,Scout User 8,Scout,2026-02-15,10,12,42
+2026-03-01,FC Bayern Munich,USR-20009,Scout User 9,Scout,2026-03-01,15,11,35
+2026-03-01,FC Bayern Munich,USR-20010,Scout User 10,Scout,2026-03-01,15,8,32
+2026-03-01,FC Bayern Munich,USR-20011,Scout User 11,Scout,2026-02-02,16,10,35
+2026-03-01,FC Bayern Munich,USR-20012,Scout User 12,Scout;Admin,2026-02-15,13,8,38
+2026-03-01,FC Bayern Munich,USR-20013,Scout User 13,Scout,2026-02-26,10,11,36
+2026-03-01,FC Bayern Munich,USR-20014,Scout User 14,Scout,2026-02-24,11,9,27
+2026-03-01,FC Bayern Munich,USR-20015,Scout User 15,Scout,2026-02-06,13,11,33
+2026-03-01,FC Bayern Munich,USR-20016,Scout User 16,Scout;Admin,2026-02-17,14,8,29
+2026-03-01,FC Bayern Munich,USR-20017,Scout User 17,Scout,2026-02-26,10,11,34
+2026-03-01,FC Bayern Munich,USR-20018,Scout User 18,Scout,2026-01-31,14,9,31
+2026-03-01,FC Bayern Munich,USR-20019,Scout User 19,Scout;Admin,2026-02-12,14,8,37
+2026-03-01,FC Bayern Munich,USR-20020,Scout User 20,Scout;Squad Manager,2026-02-09,15,14,29
+2026-03-01,FC Bayern Munich,USR-20021,Scout User 21,Scout,2026-02-23,14,8,43
+2026-03-01,FC Bayern Munich,USR-20022,Scout User 22,Scout;Club2Club,2026-02-01,10,9,30
+2026-03-01,FC Bayern Munich,USR-20023,Scout User 23,Scout;Squad Planner,2026-02-01,18,8,27
+2026-03-01,FC Bayern Munich,USR-20024,Scout User 24,Scout,2026-02-21,17,13,40
+2026-03-01,FC Bayern Munich,USR-20025,Scout User 25,Scout,2026-02-28,15,10,36
+2026-03-01,FC Bayern Munich,USR-20026,Scout User 26,Scout;Squad Manager,2026-02-04,18,12,41
+2026-03-01,FC Bayern Munich,USR-20027,Squad Manager User 27,Scout;Squad Manager,2026-03-01,7,6,25
+2026-03-01,FC Bayern Munich,USR-20028,Squad Manager User 28,Scout;Squad Manager,2026-02-19,8,11,33
+2026-03-01,FC Bayern Munich,USR-20029,Squad Manager User 29,Scout;Squad Manager,2026-02-02,10,8,28
+2026-03-01,FC Bayern Munich,USR-20030,Squad Manager User 30,Scout;Squad Manager,2026-02-03,14,11,18
+2026-03-01,FC Bayern Munich,USR-20031,Squad Manager User 31,Scout;Squad Manager;Admin,2026-02-21,9,9,20
+2026-03-01,FC Bayern Munich,USR-20032,Squad Manager User 32,Scout;Squad Manager;Admin,2026-02-02,6,9,31
+2026-03-01,FC Bayern Munich,USR-20033,Squad Manager User 33,Scout;Squad Manager;Squad Planner,2026-02-16,10,6,21
+2026-03-01,FC Bayern Munich,USR-20034,Squad Manager User 34,Scout;Squad Manager,2026-02-01,11,10,26
+2026-03-01,FC Bayern Munich,USR-20035,Squad Manager User 35,Scout;Squad Manager;Squad Planner,2026-02-15,7,9,18
+2026-03-01,FC Bayern Munich,USR-20036,Squad Manager User 36,Scout;Squad Manager;Club2Club,2026-02-05,14,5,30
+2026-03-01,FC Bayern Munich,USR-20037,Squad Manager User 37,Scout;Squad Manager,2026-02-13,14,10,23
+2026-03-01,FC Bayern Munich,USR-20038,Squad Planner User 38,Scout;Squad Planner,2026-02-09,7,5,16
+2026-03-01,FC Bayern Munich,USR-20039,Squad Planner User 39,Scout;Squad Planner,2026-02-22,10,5,26
+2026-03-01,FC Bayern Munich,USR-20040,Squad Planner User 40,Scout;Squad Planner;Admin,2026-03-01,8,9,22
+2026-03-01,FC Bayern Munich,USR-20041,Squad Planner User 41,Scout;Squad Planner,2026-02-18,5,9,28
+2026-03-01,FC Bayern Munich,USR-20042,Squad Planner User 42,Scout;Squad Planner;Squad Manager,2026-02-24,11,6,17
+2026-03-01,FC Bayern Munich,USR-20043,Squad Planner User 43,Scout;Squad Planner,2026-02-04,8,8,20
+2026-03-01,FC Bayern Munich,USR-20044,Squad Planner User 44,Scout;Squad Planner,2026-02-17,5,6,30
+2026-03-01,FC Bayern Munich,USR-20045,Squad Planner User 45,Scout;Squad Planner;Squad Manager,2026-02-05,10,5,28
+2026-03-01,FC Bayern Munich,USR-20046,Club2Club User 46,Scout;Club2Club,2026-02-02,7,3,13
+2026-03-01,FC Bayern Munich,USR-20047,Club2Club User 47,Scout;Club2Club,2026-02-23,11,8,23
+2026-03-01,FC Bayern Munich,USR-20048,Club2Club User 48,Scout;Club2Club,2026-02-24,4,9,25
+2026-03-01,FC Bayern Munich,USR-20049,Club2Club User 49,Scout;Club2Club,2026-02-01,4,7,27
+2026-03-01,FC Bayern Munich,USR-20050,Club2Club User 50,Scout;Club2Club,2026-02-14,9,8,28
+2026-02-01,Borussia Dortmund,USR-20051,Admin User 1,Scout;Admin,2026-01-03,22,16,52
+2026-02-01,Borussia Dortmund,USR-20052,Admin User 2,Scout;Admin,2026-01-03,19,13,52
+2026-02-01,Borussia Dortmund,USR-20053,Admin User 3,Scout;Admin,2026-01-16,14,12,41
+2026-02-01,Borussia Dortmund,USR-20054,Scout User 4,Scout,2026-01-25,12,11,38
+2026-02-01,Borussia Dortmund,USR-20055,Scout User 5,Scout,2026-01-07,17,13,43
+2026-02-01,Borussia Dortmund,USR-20056,Scout User 6,Scout,2026-01-16,17,13,36
+2026-02-01,Borussia Dortmund,USR-20057,Scout User 7,Scout,2026-01-10,15,10,30
+2026-02-01,Borussia Dortmund,USR-20058,Scout User 8,Scout,2026-01-12,17,8,41
+2026-02-01,Borussia Dortmund,USR-20059,Scout User 9,Scout,2026-01-25,14,8,27
+2026-02-01,Borussia Dortmund,USR-20060,Scout User 10,Scout,2026-01-23,16,12,27
+2026-02-01,Borussia Dortmund,USR-20061,Scout User 11,Scout;Club2Club,2026-01-16,17,9,35
+2026-02-01,Borussia Dortmund,USR-20062,Scout User 12,Scout,2026-01-05,16,13,35
+2026-02-01,Borussia Dortmund,USR-20063,Scout User 13,Scout,2026-01-20,10,12,27
+2026-02-01,Borussia Dortmund,USR-20064,Scout User 14,Scout,2026-01-20,10,13,36
+2026-02-01,Borussia Dortmund,USR-20065,Scout User 15,Scout;Club2Club,2026-01-22,18,9,37
+2026-02-01,Borussia Dortmund,USR-20066,Scout User 16,Scout;Squad Planner,2026-01-07,11,10,30
+2026-02-01,Borussia Dortmund,USR-20067,Scout User 17,Scout;Admin;Squad Planner,2026-01-25,11,14,40
+2026-02-01,Borussia Dortmund,USR-20068,Scout User 18,Scout;Admin,2026-01-18,12,10,42
+2026-02-01,Borussia Dortmund,USR-20069,Scout User 19,Scout,2026-01-14,18,12,36
+2026-02-01,Borussia Dortmund,USR-20070,Scout User 20,Scout,2026-01-08,16,14,37
+2026-02-01,Borussia Dortmund,USR-20071,Scout User 21,Scout;Squad Planner,2026-01-29,12,10,40
+2026-02-01,Borussia Dortmund,USR-20072,Scout User 22,Scout,2026-01-21,14,13,31
+2026-02-01,Borussia Dortmund,USR-20073,Squad Manager User 23,Scout;Squad Manager,2026-01-25,10,6,28
+2026-02-01,Borussia Dortmund,USR-20074,Squad Manager User 24,Scout;Squad Manager,2026-01-30,12,9,24
+2026-02-01,Borussia Dortmund,USR-20075,Squad Manager User 25,Scout;Squad Manager,2026-01-28,12,10,17
+2026-02-01,Borussia Dortmund,USR-20076,Squad Manager User 26,Scout;Squad Manager,2026-01-04,9,6,31
+2026-02-01,Borussia Dortmund,USR-20077,Squad Manager User 27,Scout;Squad Manager;Admin,2026-01-13,11,9,24
+2026-02-01,Borussia Dortmund,USR-20078,Squad Manager User 28,Scout;Squad Manager;Club2Club,2026-01-31,11,9,29
+2026-02-01,Borussia Dortmund,USR-20079,Squad Manager User 29,Scout;Squad Manager,2026-01-08,8,9,32
+2026-02-01,Borussia Dortmund,USR-20080,Squad Manager User 30,Scout;Squad Manager,2026-01-18,10,10,29
+2026-02-01,Borussia Dortmund,USR-20081,Squad Manager User 31,Scout;Squad Manager,2026-01-30,11,5,26
+2026-02-01,Borussia Dortmund,USR-20082,Squad Manager User 32,Scout;Squad Manager;Squad Planner,2026-01-27,13,9,33
+2026-02-01,Borussia Dortmund,USR-20083,Squad Planner User 33,Scout;Squad Planner,2026-01-20,11,10,27
+2026-02-01,Borussia Dortmund,USR-20084,Squad Planner User 34,Scout;Squad Planner;Club2Club,2026-01-15,9,6,23
+2026-02-01,Borussia Dortmund,USR-20085,Squad Planner User 35,Scout;Squad Planner,2026-01-27,7,8,26
+2026-02-01,Borussia Dortmund,USR-20086,Squad Planner User 36,Scout;Squad Planner,2026-01-11,10,4,15
+2026-02-01,Borussia Dortmund,USR-20087,Squad Planner User 37,Scout;Squad Planner;Admin;Club2Club,2026-01-07,5,10,27
+2026-02-01,Borussia Dortmund,USR-20088,Squad Planner User 38,Scout;Squad Planner;Club2Club,2026-01-19,5,6,23
+2026-02-01,Borussia Dortmund,USR-20089,Squad Planner User 39,Scout;Squad Planner;Club2Club,2026-02-01,10,9,20
+2026-02-01,Borussia Dortmund,USR-20090,Squad Planner User 40,Scout;Squad Planner,2026-01-14,6,7,15
+2026-02-01,Borussia Dortmund,USR-20091,Club2Club User 41,Scout;Club2Club;Squad Planner,2026-01-07,10,7,14
+2026-02-01,Borussia Dortmund,USR-20092,Club2Club User 42,Scout;Club2Club;Admin,2026-02-01,4,9,21
+2026-02-01,Borussia Dortmund,USR-20093,Club2Club User 43,Scout;Club2Club;Admin,2026-01-12,4,4,23
+2026-02-01,Borussia Dortmund,USR-20094,Club2Club User 44,Scout;Club2Club;Admin,2026-01-29,11,7,23
+2026-02-01,Borussia Dortmund,USR-20095,Club2Club User 45,Scout;Club2Club,2026-02-01,7,6,15
+2026-03-01,Borussia Dortmund,USR-20051,Admin User 1,Scout;Admin,2026-02-17,15,16,41
+2026-03-01,Borussia Dortmund,USR-20052,Admin User 2,Scout;Admin,2026-02-20,14,15,44
+2026-03-01,Borussia Dortmund,USR-20053,Admin User 3,Scout;Admin,2026-02-26,21,11,43
+2026-03-01,Borussia Dortmund,USR-20054,Scout User 4,Scout,2026-02-27,14,9,30
+2026-03-01,Borussia Dortmund,USR-20055,Scout User 5,Scout,2026-01-31,17,14,35
+2026-03-01,Borussia Dortmund,USR-20056,Scout User 6,Scout,2026-02-28,18,9,31
+2026-03-01,Borussia Dortmund,USR-20057,Scout User 7,Scout,2026-02-13,12,9,28
+2026-03-01,Borussia Dortmund,USR-20058,Scout User 8,Scout,2026-02-25,18,13,30
+2026-03-01,Borussia Dortmund,USR-20059,Scout User 9,Scout,2026-02-14,10,9,41
+2026-03-01,Borussia Dortmund,USR-20060,Scout User 10,Scout,2026-02-13,18,10,38
+2026-03-01,Borussia Dortmund,USR-20061,Scout User 11,Scout;Club2Club,2026-02-05,16,8,33
+2026-03-01,Borussia Dortmund,USR-20062,Scout User 12,Scout,2026-02-17,15,10,33
+2026-03-01,Borussia Dortmund,USR-20063,Scout User 13,Scout,2026-02-17,14,14,37
+2026-03-01,Borussia Dortmund,USR-20064,Scout User 14,Scout,2026-02-06,10,12,43
+2026-03-01,Borussia Dortmund,USR-20065,Scout User 15,Scout;Club2Club,2026-02-03,15,13,40
+2026-03-01,Borussia Dortmund,USR-20066,Scout User 16,Scout;Squad Planner,2026-02-03,14,12,36
+2026-03-01,Borussia Dortmund,USR-20067,Scout User 17,Scout;Admin;Squad Planner,2026-02-07,13,10,42
+2026-03-01,Borussia Dortmund,USR-20068,Scout User 18,Scout;Admin,2026-02-09,17,14,29
+2026-03-01,Borussia Dortmund,USR-20069,Scout User 19,Scout,2026-02-06,16,10,39
+2026-03-01,Borussia Dortmund,USR-20070,Scout User 20,Scout,2026-02-21,14,10,38
+2026-03-01,Borussia Dortmund,USR-20071,Scout User 21,Scout;Squad Planner,2026-02-10,13,14,40
+2026-03-01,Borussia Dortmund,USR-20072,Scout User 22,Scout,2026-02-10,15,10,43
+2026-03-01,Borussia Dortmund,USR-20073,Squad Manager User 23,Scout;Squad Manager,2026-02-15,6,6,18
+2026-03-01,Borussia Dortmund,USR-20074,Squad Manager User 24,Scout;Squad Manager,2026-02-16,8,6,21
+2026-03-01,Borussia Dortmund,USR-20075,Squad Manager User 25,Scout;Squad Manager,2026-02-04,9,11,26
+2026-03-01,Borussia Dortmund,USR-20076,Squad Manager User 26,Scout;Squad Manager,2026-02-03,8,9,18
+2026-03-01,Borussia Dortmund,USR-20077,Squad Manager User 27,Scout;Squad Manager;Admin,2026-02-13,14,9,29
+2026-03-01,Borussia Dortmund,USR-20078,Squad Manager User 28,Scout;Squad Manager;Club2Club,2026-02-13,12,7,31
+2026-03-01,Borussia Dortmund,USR-20079,Squad Manager User 29,Scout;Squad Manager,2026-01-31,8,5,26
+2026-03-01,Borussia Dortmund,USR-20080,Squad Manager User 30,Scout;Squad Manager,2026-02-17,12,6,20
+2026-03-01,Borussia Dortmund,USR-20081,Squad Manager User 31,Scout;Squad Manager,2026-02-01,14,6,29
+2026-03-01,Borussia Dortmund,USR-20082,Squad Manager User 32,Scout;Squad Manager;Squad Planner,2026-02-15,7,10,32
+2026-03-01,Borussia Dortmund,USR-20083,Squad Planner User 33,Scout;Squad Planner,2026-02-01,11,8,21
+2026-03-01,Borussia Dortmund,USR-20084,Squad Planner User 34,Scout;Squad Planner;Club2Club,2026-02-05,7,9,29
+2026-03-01,Borussia Dortmund,USR-20085,Squad Planner User 35,Scout;Squad Planner,2026-03-01,13,9,15
+2026-03-01,Borussia Dortmund,USR-20086,Squad Planner User 36,Scout;Squad Planner,2026-02-01,5,4,27
+2026-03-01,Borussia Dortmund,USR-20087,Squad Planner User 37,Scout;Squad Planner;Admin;Club2Club,2026-02-10,12,4,22
+2026-03-01,Borussia Dortmund,USR-20088,Squad Planner User 38,Scout;Squad Planner;Club2Club,2026-02-20,12,4,25
+2026-03-01,Borussia Dortmund,USR-20089,Squad Planner User 39,Scout;Squad Planner;Club2Club,2026-02-19,10,6,25
+2026-03-01,Borussia Dortmund,USR-20090,Squad Planner User 40,Scout;Squad Planner,2026-02-13,7,5,24
+2026-03-01,Borussia Dortmund,USR-20091,Club2Club User 41,Scout;Club2Club;Squad Planner,2026-02-04,4,8,25
+2026-03-01,Borussia Dortmund,USR-20092,Club2Club User 42,Scout;Club2Club;Admin,2026-02-09,5,6,21
+2026-03-01,Borussia Dortmund,USR-20093,Club2Club User 43,Scout;Club2Club;Admin,2026-02-07,10,5,23
+2026-03-01,Borussia Dortmund,USR-20094,Club2Club User 44,Scout;Club2Club;Admin,2026-02-05,8,4,25
+2026-03-01,Borussia Dortmund,USR-20095,Club2Club User 45,Scout;Club2Club,2026-02-10,11,7,16
+2026-02-01,RB Leipzig,USR-20096,Admin User 1,Scout;Admin;Squad Planner,2026-01-29,22,16,47
+2026-02-01,RB Leipzig,USR-20097,Admin User 2,Scout;Admin;Squad Planner,2026-01-03,17,11,46
+2026-02-01,RB Leipzig,USR-20098,Admin User 3,Scout;Admin,2026-01-16,19,16,40
+2026-02-01,RB Leipzig,USR-20099,Scout User 4,Scout,2026-01-26,13,10,41
+2026-02-01,RB Leipzig,USR-20100,Scout User 5,Scout,2026-01-29,12,10,40
+2026-02-01,RB Leipzig,USR-20101,Scout User 6,Scout,2026-01-30,12,12,41
+2026-02-01,RB Leipzig,USR-20102,Scout User 7,Scout,2026-01-13,10,11,42
+2026-02-01,RB Leipzig,USR-20103,Scout User 8,Scout;Squad Manager,2026-01-13,15,12,32
+2026-02-01,RB Leipzig,USR-20104,Scout User 9,Scout,2026-01-27,13,12,35
+2026-02-01,RB Leipzig,USR-20105,Scout User 10,Scout,2026-01-31,10,11,40
+2026-02-01,RB Leipzig,USR-20106,Scout User 11,Scout;Club2Club,2026-01-14,17,10,43
+2026-02-01,RB Leipzig,USR-20107,Scout User 12,Scout,2026-01-25,14,11,28
+2026-02-01,RB Leipzig,USR-20108,Scout User 13,Scout;Squad Manager;Squad Planner,2026-01-30,12,12,41
+2026-02-01,RB Leipzig,USR-20109,Scout User 14,Scout,2026-01-10,10,10,29
+2026-02-01,RB Leipzig,USR-20110,Scout User 15,Scout,2026-01-13,11,10,40
+2026-02-01,RB Leipzig,USR-20111,Scout User 16,Scout,2026-01-06,10,10,35
+2026-02-01,RB Leipzig,USR-20112,Scout User 17,Scout;Squad Planner,2026-01-17,12,14,33
+2026-02-01,RB Leipzig,USR-20113,Scout User 18,Scout,2026-01-25,15,14,29
+2026-02-01,RB Leipzig,USR-20114,Scout User 19,Scout,2026-01-04,11,10,30
+2026-02-01,RB Leipzig,USR-20115,Scout User 20,Scout,2026-01-23,16,14,30
+2026-02-01,RB Leipzig,USR-20116,Squad Manager User 21,Scout;Squad Manager,2026-01-12,9,6,25
+2026-02-01,RB Leipzig,USR-20117,Squad Manager User 22,Scout;Squad Manager,2026-01-14,14,7,30
+2026-02-01,RB Leipzig,USR-20118,Squad Manager User 23,Scout;Squad Manager;Squad Planner,2026-01-19,13,9,29
+2026-02-01,RB Leipzig,USR-20119,Squad Manager User 24,Scout;Squad Manager,2026-01-06,14,7,28
+2026-02-01,RB Leipzig,USR-20120,Squad Manager User 25,Scout;Squad Manager,2026-01-26,9,5,32
+2026-02-01,RB Leipzig,USR-20121,Squad Manager User 26,Scout;Squad Manager,2026-01-07,6,8,24
+2026-02-01,RB Leipzig,USR-20122,Squad Manager User 27,Scout;Squad Manager,2026-01-04,6,11,19
+2026-02-01,RB Leipzig,USR-20123,Squad Manager User 28,Scout;Squad Manager,2026-01-12,12,11,21
+2026-02-01,RB Leipzig,USR-20124,Squad Manager User 29,Scout;Squad Manager,2026-01-06,9,11,33
+2026-02-01,RB Leipzig,USR-20125,Squad Planner User 30,Scout;Squad Planner,2026-01-07,10,5,20
+2026-02-01,RB Leipzig,USR-20126,Squad Planner User 31,Scout;Squad Planner;Admin,2026-01-28,10,4,25
+2026-02-01,RB Leipzig,USR-20127,Squad Planner User 32,Scout;Squad Planner;Admin;Squad Manager,2026-01-14,5,9,18
+2026-02-01,RB Leipzig,USR-20128,Squad Planner User 33,Scout;Squad Planner,2026-01-11,13,10,26
+2026-02-01,RB Leipzig,USR-20129,Squad Planner User 34,Scout;Squad Planner,2026-01-15,6,9,19
+2026-02-01,RB Leipzig,USR-20130,Squad Planner User 35,Scout;Squad Planner,2026-01-27,10,4,24
+2026-02-01,RB Leipzig,USR-20131,Club2Club User 36,Scout;Club2Club,2026-01-17,5,4,28
+2026-02-01,RB Leipzig,USR-20132,Club2Club User 37,Scout;Club2Club,2026-01-20,12,7,24
+2026-02-01,RB Leipzig,USR-20133,Club2Club User 38,Scout;Club2Club,2026-01-04,5,7,28
+2026-03-01,RB Leipzig,USR-20096,Admin User 1,Scout;Admin;Squad Planner,2026-01-31,16,13,48
+2026-03-01,RB Leipzig,USR-20097,Admin User 2,Scout;Admin;Squad Planner,2026-02-17,14,15,49
+2026-03-01,RB Leipzig,USR-20098,Admin User 3,Scout;Admin,2026-02-16,14,11,48
+2026-03-01,RB Leipzig,USR-20099,Scout User 4,Scout,2026-02-03,10,13,41
+2026-03-01,RB Leipzig,USR-20100,Scout User 5,Scout,2026-02-21,15,10,41
+2026-03-01,RB Leipzig,USR-20101,Scout User 6,Scout,2026-02-03,16,12,40
+2026-03-01,RB Leipzig,USR-20102,Scout User 7,Scout,2026-02-20,10,12,36
+2026-03-01,RB Leipzig,USR-20103,Scout User 8,Scout;Squad Manager,2026-02-02,18,8,31
+2026-03-01,RB Leipzig,USR-20104,Scout User 9,Scout,2026-02-15,17,12,38
+2026-03-01,RB Leipzig,USR-20105,Scout User 10,Scout,2026-02-11,13,9,28
+2026-03-01,RB Leipzig,USR-20106,Scout User 11,Scout;Club2Club,2026-02-28,11,9,29
+2026-03-01,RB Leipzig,USR-20107,Scout User 12,Scout,2026-02-12,18,8,37
+2026-03-01,RB Leipzig,USR-20108,Scout User 13,Scout;Squad Manager;Squad Planner,2026-02-17,18,13,30
+2026-03-01,RB Leipzig,USR-20109,Scout User 14,Scout,2026-02-26,11,13,28
+2026-03-01,RB Leipzig,USR-20110,Scout User 15,Scout,2026-02-01,13,10,32
+2026-03-01,RB Leipzig,USR-20111,Scout User 16,Scout,2026-02-16,13,12,37
+2026-03-01,RB Leipzig,USR-20112,Scout User 17,Scout;Squad Planner,2026-02-19,14,12,27
+2026-03-01,RB Leipzig,USR-20113,Scout User 18,Scout,2026-02-13,11,9,43
+2026-03-01,RB Leipzig,USR-20114,Scout User 19,Scout,2026-02-05,18,10,27
+2026-03-01,RB Leipzig,USR-20115,Scout User 20,Scout,2026-02-02,13,13,30
+2026-03-01,RB Leipzig,USR-20116,Squad Manager User 21,Scout;Squad Manager,2026-02-08,11,11,29
+2026-03-01,RB Leipzig,USR-20117,Squad Manager User 22,Scout;Squad Manager,2026-02-08,6,6,24
+2026-03-01,RB Leipzig,USR-20118,Squad Manager User 23,Scout;Squad Manager;Squad Planner,2026-02-06,11,8,28
+2026-03-01,RB Leipzig,USR-20119,Squad Manager User 24,Scout;Squad Manager,2026-02-06,14,9,20
+2026-03-01,RB Leipzig,USR-20120,Squad Manager User 25,Scout;Squad Manager,2026-02-02,14,7,32
+2026-03-01,RB Leipzig,USR-20121,Squad Manager User 26,Scout;Squad Manager,2026-02-15,9,7,21
+2026-03-01,RB Leipzig,USR-20122,Squad Manager User 27,Scout;Squad Manager,2026-02-23,10,9,28
+2026-03-01,RB Leipzig,USR-20123,Squad Manager User 28,Scout;Squad Manager,2026-02-07,11,11,18
+2026-03-01,RB Leipzig,USR-20124,Squad Manager User 29,Scout;Squad Manager,2026-02-19,12,7,24
+2026-03-01,RB Leipzig,USR-20125,Squad Planner User 30,Scout;Squad Planner,2026-02-21,5,10,21
+2026-03-01,RB Leipzig,USR-20126,Squad Planner User 31,Scout;Squad Planner;Admin,2026-02-14,13,7,22
+2026-03-01,RB Leipzig,USR-20127,Squad Planner User 32,Scout;Squad Planner;Admin;Squad Manager,2026-02-14,9,8,20
+2026-03-01,RB Leipzig,USR-20128,Squad Planner User 33,Scout;Squad Planner,2026-02-11,12,9,17
+2026-03-01,RB Leipzig,USR-20129,Squad Planner User 34,Scout;Squad Planner,2026-02-16,7,8,25
+2026-03-01,RB Leipzig,USR-20130,Squad Planner User 35,Scout;Squad Planner,2026-02-13,13,7,25
+2026-03-01,RB Leipzig,USR-20131,Club2Club User 36,Scout;Club2Club,2026-02-09,5,4,28
+2026-03-01,RB Leipzig,USR-20132,Club2Club User 37,Scout;Club2Club,2026-02-11,12,3,19
+2026-03-01,RB Leipzig,USR-20133,Club2Club User 38,Scout;Club2Club,2026-02-12,4,5,27
+2026-02-01,Bayer Leverkusen,USR-20134,Admin User 1,Scout;Admin,2026-01-23,20,17,44
+2026-02-01,Bayer Leverkusen,USR-20135,Admin User 2,Scout;Admin,2026-01-21,18,12,38
+2026-02-01,Bayer Leverkusen,USR-20136,Scout User 3,Scout;Admin,2026-01-08,17,13,42
+2026-02-01,Bayer Leverkusen,USR-20137,Scout User 4,Scout;Admin,2026-01-06,17,14,42
+2026-02-01,Bayer Leverkusen,USR-20138,Scout User 5,Scout;Squad Planner,2026-01-18,11,14,38
+2026-02-01,Bayer Leverkusen,USR-20139,Scout User 6,Scout,2026-01-24,18,12,36
+2026-02-01,Bayer Leverkusen,USR-20140,Scout User 7,Scout;Squad Planner,2026-01-07,12,13,30
+2026-02-01,Bayer Leverkusen,USR-20141,Scout User 8,Scout;Admin,2026-01-27,10,11,39
+2026-02-01,Bayer Leverkusen,USR-20142,Scout User 9,Scout;Squad Planner,2026-01-23,18,14,41
+2026-02-01,Bayer Leverkusen,USR-20143,Scout User 10,Scout,2026-01-08,18,11,31
+2026-02-01,Bayer Leverkusen,USR-20144,Scout User 11,Scout;Admin;Squad Planner,2026-01-16,14,9,32
+2026-02-01,Bayer Leverkusen,USR-20145,Scout User 12,Scout,2026-01-09,18,11,43
+2026-02-01,Bayer Leverkusen,USR-20146,Scout User 13,Scout;Admin,2026-01-04,15,13,41
+2026-02-01,Bayer Leverkusen,USR-20147,Scout User 14,Scout,2026-01-30,18,10,29
+2026-02-01,Bayer Leverkusen,USR-20148,Scout User 15,Scout,2026-01-22,12,10,42
+2026-02-01,Bayer Leverkusen,USR-20149,Scout User 16,Scout;Admin;Squad Planner,2026-01-05,18,8,29
+2026-02-01,Bayer Leverkusen,USR-20150,Scout User 17,Scout;Squad Planner,2026-01-11,11,14,35
+2026-02-01,Bayer Leverkusen,USR-20151,Squad Manager User 18,Scout;Squad Manager;Admin,2026-01-31,8,7,28
+2026-02-01,Bayer Leverkusen,USR-20152,Squad Manager User 19,Scout;Squad Manager,2026-01-12,8,6,25
+2026-02-01,Bayer Leverkusen,USR-20153,Squad Manager User 20,Scout;Squad Manager;Squad Planner,2026-01-11,13,11,18
+2026-02-01,Bayer Leverkusen,USR-20154,Squad Manager User 21,Scout;Squad Manager;Admin,2026-01-23,7,5,33
+2026-02-01,Bayer Leverkusen,USR-20155,Squad Manager User 22,Scout;Squad Manager,2026-01-05,7,8,29
+2026-02-01,Bayer Leverkusen,USR-20156,Squad Manager User 23,Scout;Squad Manager,2026-01-28,12,8,29
+2026-02-01,Bayer Leverkusen,USR-20157,Squad Manager User 24,Scout;Squad Manager,2026-01-24,13,9,22
+2026-02-01,Bayer Leverkusen,USR-20158,Squad Manager User 25,Scout;Squad Manager;Admin,2026-01-21,13,7,17
+2026-02-01,Bayer Leverkusen,USR-20159,Squad Planner User 26,Scout;Squad Planner,2026-01-12,13,9,17
+2026-02-01,Bayer Leverkusen,USR-20160,Squad Planner User 27,Scout;Squad Planner,2026-01-14,8,10,30
+2026-02-01,Bayer Leverkusen,USR-20161,Squad Planner User 28,Scout;Squad Planner;Squad Manager,2026-01-26,8,4,20
+2026-02-01,Bayer Leverkusen,USR-20162,Squad Planner User 29,Scout;Squad Planner;Admin;Squad Manager,2026-01-18,10,7,16
+2026-02-01,Bayer Leverkusen,USR-20163,Squad Planner User 30,Scout;Squad Planner,2026-01-21,10,10,17
+2026-02-01,Bayer Leverkusen,USR-20164,Squad Planner User 31,Scout;Squad Planner,2026-01-28,12,5,22
+2026-02-01,Bayer Leverkusen,USR-20165,Club2Club User 32,Scout;Club2Club,2026-01-25,6,4,22
+2026-02-01,Bayer Leverkusen,USR-20166,Club2Club User 33,Scout;Club2Club,2026-01-21,7,3,12
+2026-02-01,Bayer Leverkusen,USR-20167,Club2Club User 34,Scout;Club2Club;Admin,2026-01-18,4,8,20
+2026-02-01,Bayer Leverkusen,USR-20168,Club2Club User 35,Scout;Club2Club,2026-01-23,9,7,13
+2026-03-01,Bayer Leverkusen,USR-20134,Admin User 1,Scout;Admin,2026-02-02,20,13,53
+2026-03-01,Bayer Leverkusen,USR-20135,Admin User 2,Scout;Admin,2026-01-31,14,15,53
+2026-03-01,Bayer Leverkusen,USR-20136,Scout User 3,Scout;Admin,2026-02-26,17,13,27
+2026-03-01,Bayer Leverkusen,USR-20137,Scout User 4,Scout;Admin,2026-02-14,16,12,40
+2026-03-01,Bayer Leverkusen,USR-20138,Scout User 5,Scout;Squad Planner,2026-02-22,12,9,27
+2026-03-01,Bayer Leverkusen,USR-20139,Scout User 6,Scout,2026-02-18,14,12,43
+2026-03-01,Bayer Leverkusen,USR-20140,Scout User 7,Scout;Squad Planner,2026-02-09,16,14,28
+2026-03-01,Bayer Leverkusen,USR-20141,Scout User 8,Scout;Admin,2026-02-15,17,9,34
+2026-03-01,Bayer Leverkusen,USR-20142,Scout User 9,Scout;Squad Planner,2026-02-27,14,9,41
+2026-03-01,Bayer Leverkusen,USR-20143,Scout User 10,Scout,2026-02-02,14,9,32
+2026-03-01,Bayer Leverkusen,USR-20144,Scout User 11,Scout;Admin;Squad Planner,2026-02-15,15,11,36
+2026-03-01,Bayer Leverkusen,USR-20145,Scout User 12,Scout,2026-02-02,10,10,33
+2026-03-01,Bayer Leverkusen,USR-20146,Scout User 13,Scout;Admin,2026-02-10,14,9,39
+2026-03-01,Bayer Leverkusen,USR-20147,Scout User 14,Scout,2026-02-06,14,13,34
+2026-03-01,Bayer Leverkusen,USR-20148,Scout User 15,Scout,2026-02-25,12,11,30
+2026-03-01,Bayer Leverkusen,USR-20149,Scout User 16,Scout;Admin;Squad Planner,2026-02-13,10,10,43
+2026-03-01,Bayer Leverkusen,USR-20150,Scout User 17,Scout;Squad Planner,2026-02-19,14,9,31
+2026-03-01,Bayer Leverkusen,USR-20151,Squad Manager User 18,Scout;Squad Manager;Admin,2026-02-05,12,5,29
+2026-03-01,Bayer Leverkusen,USR-20152,Squad Manager User 19,Scout;Squad Manager,2026-02-04,7,6,27
+2026-03-01,Bayer Leverkusen,USR-20153,Squad Manager User 20,Scout;Squad Manager;Squad Planner,2026-02-03,9,6,19
+2026-03-01,Bayer Leverkusen,USR-20154,Squad Manager User 21,Scout;Squad Manager;Admin,2026-02-07,9,11,27
+2026-03-01,Bayer Leverkusen,USR-20155,Squad Manager User 22,Scout;Squad Manager,2026-02-23,14,10,30
+2026-03-01,Bayer Leverkusen,USR-20156,Squad Manager User 23,Scout;Squad Manager,2026-02-05,13,7,17
+2026-03-01,Bayer Leverkusen,USR-20157,Squad Manager User 24,Scout;Squad Manager,2026-02-07,10,5,18
+2026-03-01,Bayer Leverkusen,USR-20158,Squad Manager User 25,Scout;Squad Manager;Admin,2026-02-24,12,6,31
+2026-03-01,Bayer Leverkusen,USR-20159,Squad Planner User 26,Scout;Squad Planner,2026-02-21,11,7,18
+2026-03-01,Bayer Leverkusen,USR-20160,Squad Planner User 27,Scout;Squad Planner,2026-02-10,13,8,24
+2026-03-01,Bayer Leverkusen,USR-20161,Squad Planner User 28,Scout;Squad Planner;Squad Manager,2026-02-27,9,5,26
+2026-03-01,Bayer Leverkusen,USR-20162,Squad Planner User 29,Scout;Squad Planner;Admin;Squad Manager,2026-02-06,7,4,24
+2026-03-01,Bayer Leverkusen,USR-20163,Squad Planner User 30,Scout;Squad Planner,2026-02-09,12,7,26
+2026-03-01,Bayer Leverkusen,USR-20164,Squad Planner User 31,Scout;Squad Planner,2026-03-01,12,8,20
+2026-03-01,Bayer Leverkusen,USR-20165,Club2Club User 32,Scout;Club2Club,2026-02-27,7,4,16
+2026-03-01,Bayer Leverkusen,USR-20166,Club2Club User 33,Scout;Club2Club,2026-02-02,9,3,12
+2026-03-01,Bayer Leverkusen,USR-20167,Club2Club User 34,Scout;Club2Club;Admin,2026-02-23,12,8,26
+2026-03-01,Bayer Leverkusen,USR-20168,Club2Club User 35,Scout;Club2Club,2026-02-12,9,3,14
+2026-02-01,VfB Stuttgart,USR-20169,Admin User 1,Scout;Admin,2026-01-30,19,17,50
+2026-02-01,VfB Stuttgart,USR-20170,Admin User 2,Scout;Admin,2026-01-06,14,15,41
+2026-02-01,VfB Stuttgart,USR-20171,Scout User 3,Scout;Admin,2026-01-25,10,12,41
+2026-02-01,VfB Stuttgart,USR-20172,Scout User 4,Scout,2026-01-31,12,9,30
+2026-02-01,VfB Stuttgart,USR-20173,Scout User 5,Scout,2026-01-30,17,14,28
+2026-02-01,VfB Stuttgart,USR-20174,Scout User 6,Scout;Squad Manager;Squad Planner;Club2Club,2026-01-25,16,8,37
+2026-02-01,VfB Stuttgart,USR-20175,Scout User 7,Scout;Squad Planner,2026-01-15,11,12,39
+2026-02-01,VfB Stuttgart,USR-20176,Scout User 8,Scout;Squad Manager,2026-01-26,12,13,33
+2026-02-01,VfB Stuttgart,USR-20177,Scout User 9,Scout;Admin,2026-02-01,17,14,31
+2026-02-01,VfB Stuttgart,USR-20178,Scout User 10,Scout,2026-01-05,12,13,40
+2026-02-01,VfB Stuttgart,USR-20179,Scout User 11,Scout;Squad Manager,2026-01-28,14,14,27
+2026-02-01,VfB Stuttgart,USR-20180,Scout User 12,Scout,2026-01-19,14,9,29
+2026-02-01,VfB Stuttgart,USR-20181,Scout User 13,Scout,2026-01-22,16,10,34
+2026-02-01,VfB Stuttgart,USR-20182,Squad Manager User 14,Scout;Squad Manager;Admin,2026-02-01,8,7,33
+2026-02-01,VfB Stuttgart,USR-20183,Squad Manager User 15,Scout;Squad Manager,2026-01-07,7,5,24
+2026-02-01,VfB Stuttgart,USR-20184,Squad Manager User 16,Scout;Squad Manager;Admin,2026-01-16,8,8,25
+2026-02-01,VfB Stuttgart,USR-20185,Squad Manager User 17,Scout;Squad Manager,2026-01-22,11,8,26
+2026-02-01,VfB Stuttgart,USR-20186,Squad Manager User 18,Scout;Squad Manager,2026-01-18,14,10,21
+2026-02-01,VfB Stuttgart,USR-20187,Squad Planner User 19,Scout;Squad Planner,2026-01-05,11,10,24
+2026-02-01,VfB Stuttgart,USR-20188,Squad Planner User 20,Scout;Squad Planner,2026-01-23,6,9,15
+2026-02-01,VfB Stuttgart,USR-20189,Squad Planner User 21,Scout;Squad Planner,2026-01-30,8,8,21
+2026-02-01,VfB Stuttgart,USR-20190,Squad Planner User 22,Scout;Squad Planner,2026-01-20,6,8,17
+2026-02-01,VfB Stuttgart,USR-20191,Club2Club User 23,Scout;Club2Club,2026-01-29,5,4,20
+2026-02-01,VfB Stuttgart,USR-20192,Club2Club User 24,Scout;Club2Club,2026-01-30,4,4,24
+2026-02-01,VfB Stuttgart,USR-20193,Club2Club User 25,Scout;Club2Club,2026-01-27,4,7,22
+2026-03-01,VfB Stuttgart,USR-20169,Admin User 1,Scout;Admin,2026-02-23,22,15,37
+2026-03-01,VfB Stuttgart,USR-20170,Admin User 2,Scout;Admin,2026-02-28,16,11,50
+2026-03-01,VfB Stuttgart,USR-20171,Scout User 3,Scout;Admin,2026-02-12,10,14,33
+2026-03-01,VfB Stuttgart,USR-20172,Scout User 4,Scout,2026-02-15,12,14,36
+2026-03-01,VfB Stuttgart,USR-20173,Scout User 5,Scout,2026-02-26,14,8,38
+2026-03-01,VfB Stuttgart,USR-20174,Scout User 6,Scout;Squad Manager;Squad Planner;Club2Club,2026-02-10,18,12,37
+2026-03-01,VfB Stuttgart,USR-20175,Scout User 7,Scout;Squad Planner,2026-02-04,17,8,30
+2026-03-01,VfB Stuttgart,USR-20176,Scout User 8,Scout;Squad Manager,2026-02-24,13,10,38
+2026-03-01,VfB Stuttgart,USR-20177,Scout User 9,Scout;Admin,2026-02-25,10,12,27
+2026-03-01,VfB Stuttgart,USR-20178,Scout User 10,Scout,2026-02-03,18,11,42
+2026-03-01,VfB Stuttgart,USR-20179,Scout User 11,Scout;Squad Manager,2026-02-23,18,14,40
+2026-03-01,VfB Stuttgart,USR-20180,Scout User 12,Scout,2026-02-02,17,13,39
+2026-03-01,VfB Stuttgart,USR-20181,Scout User 13,Scout,2026-02-19,13,13,38
+2026-03-01,VfB Stuttgart,USR-20182,Squad Manager User 14,Scout;Squad Manager;Admin,2026-02-12,11,10,27
+2026-03-01,VfB Stuttgart,USR-20183,Squad Manager User 15,Scout;Squad Manager,2026-02-20,11,9,27
+2026-03-01,VfB Stuttgart,USR-20184,Squad Manager User 16,Scout;Squad Manager;Admin,2026-02-08,10,10,22
+2026-03-01,VfB Stuttgart,USR-20185,Squad Manager User 17,Scout;Squad Manager,2026-02-07,12,8,30
+2026-03-01,VfB Stuttgart,USR-20186,Squad Manager User 18,Scout;Squad Manager,2026-02-26,13,5,26
+2026-03-01,VfB Stuttgart,USR-20187,Squad Planner User 19,Scout;Squad Planner,2026-02-05,6,10,17
+2026-03-01,VfB Stuttgart,USR-20188,Squad Planner User 20,Scout;Squad Planner,2026-02-09,6,8,21
+2026-03-01,VfB Stuttgart,USR-20189,Squad Planner User 21,Scout;Squad Planner,2026-02-16,13,6,26
+2026-03-01,VfB Stuttgart,USR-20190,Squad Planner User 22,Scout;Squad Planner,2026-02-14,9,9,15
+2026-03-01,VfB Stuttgart,USR-20191,Club2Club User 23,Scout;Club2Club,2026-02-17,9,4,21
+2026-03-01,VfB Stuttgart,USR-20192,Club2Club User 24,Scout;Club2Club,2026-02-27,5,5,19
+2026-03-01,VfB Stuttgart,USR-20193,Club2Club User 25,Scout;Club2Club,2026-02-23,4,7,17
+2026-02-01,SC Freiburg,USR-20194,Admin User 1,Scout;Admin,2026-01-24,15,14,49
+2026-02-01,SC Freiburg,USR-20195,Scout User 2,Scout,2026-01-03,18,13,39
+2026-02-01,SC Freiburg,USR-20196,Scout User 3,Scout,2026-01-06,11,14,39
+2026-02-01,SC Freiburg,USR-20197,Scout User 4,Scout;Admin,2026-01-19,12,10,34
+2026-02-01,SC Freiburg,USR-20198,Scout User 5,Scout,2026-01-15,11,9,42
+2026-02-01,SC Freiburg,USR-20199,Scout User 6,Scout,2026-01-04,11,12,29
+2026-02-01,SC Freiburg,USR-20200,Scout User 7,Scout,2026-01-05,12,10,33
+2026-02-01,SC Freiburg,USR-20201,Scout User 8,Scout,2026-01-04,16,13,28
+2026-02-01,SC Freiburg,USR-20202,Scout User 9,Scout;Club2Club,2026-01-26,17,14,42
+2026-02-01,SC Freiburg,USR-20203,Squad Manager User 10,Scout;Squad Manager,2026-01-19,9,5,29
+2026-02-01,SC Freiburg,USR-20204,Squad Manager User 11,Scout;Squad Manager,2026-01-31,11,10,30
+2026-02-01,SC Freiburg,USR-20205,Squad Manager User 12,Scout;Squad Manager,2026-01-04,10,7,19
+2026-02-01,SC Freiburg,USR-20206,Squad Manager User 13,Scout;Squad Manager,2026-01-15,13,6,19
+2026-02-01,SC Freiburg,USR-20207,Squad Planner User 14,Scout;Squad Planner,2026-01-09,7,4,19
+2026-02-01,SC Freiburg,USR-20208,Squad Planner User 15,Scout;Squad Planner,2026-01-20,7,10,29
+2026-02-01,SC Freiburg,USR-20209,Squad Planner User 16,Scout;Squad Planner,2026-01-23,12,4,22
+2026-02-01,SC Freiburg,USR-20210,Squad Planner User 17,Scout;Squad Planner;Admin,2026-01-08,13,8,29
+2026-02-01,SC Freiburg,USR-20211,Club2Club User 18,Scout;Club2Club,2026-01-23,7,7,16
+2026-02-01,SC Freiburg,USR-20212,Club2Club User 19,Scout;Club2Club,2026-01-13,4,3,15
+2026-02-01,SC Freiburg,USR-20213,Club2Club User 20,Scout;Club2Club;Squad Manager,2026-01-14,6,8,27
+2026-03-01,SC Freiburg,USR-20194,Admin User 1,Scout;Admin,2026-02-28,16,15,37
+2026-03-01,SC Freiburg,USR-20195,Scout User 2,Scout,2026-02-27,12,12,40
+2026-03-01,SC Freiburg,USR-20196,Scout User 3,Scout,2026-01-31,11,12,33
+2026-03-01,SC Freiburg,USR-20197,Scout User 4,Scout;Admin,2026-02-07,13,13,33
+2026-03-01,SC Freiburg,USR-20198,Scout User 5,Scout,2026-02-02,17,14,38
+2026-03-01,SC Freiburg,USR-20199,Scout User 6,Scout,2026-02-22,18,8,32
+2026-03-01,SC Freiburg,USR-20200,Scout User 7,Scout,2026-02-12,14,10,42
+2026-03-01,SC Freiburg,USR-20201,Scout User 8,Scout,2026-02-09,13,13,31
+2026-03-01,SC Freiburg,USR-20202,Scout User 9,Scout;Club2Club,2026-02-25,18,13,29
+2026-03-01,SC Freiburg,USR-20203,Squad Manager User 10,Scout;Squad Manager,2026-02-23,7,9,18
+2026-03-01,SC Freiburg,USR-20204,Squad Manager User 11,Scout;Squad Manager,2026-02-05,14,7,31
+2026-03-01,SC Freiburg,USR-20205,Squad Manager User 12,Scout;Squad Manager,2026-02-21,11,11,18
+2026-03-01,SC Freiburg,USR-20206,Squad Manager User 13,Scout;Squad Manager,2026-03-01,12,10,23
+2026-03-01,SC Freiburg,USR-20207,Squad Planner User 14,Scout;Squad Planner,2026-01-31,7,7,24
+2026-03-01,SC Freiburg,USR-20208,Squad Planner User 15,Scout;Squad Planner,2026-02-15,9,6,25
+2026-03-01,SC Freiburg,USR-20209,Squad Planner User 16,Scout;Squad Planner,2026-02-12,6,6,17
+2026-03-01,SC Freiburg,USR-20210,Squad Planner User 17,Scout;Squad Planner;Admin,2026-02-13,6,4,27
+2026-03-01,SC Freiburg,USR-20211,Club2Club User 18,Scout;Club2Club,2026-02-28,9,8,15
+2026-03-01,SC Freiburg,USR-20212,Club2Club User 19,Scout;Club2Club,2026-02-08,9,8,16
+2026-03-01,SC Freiburg,USR-20213,Club2Club User 20,Scout;Club2Club;Squad Manager,2026-02-01,6,7,21
+2026-02-01,Union Berlin,USR-20214,Admin User 1,Scout;Admin,2026-01-20,20,15,43
+2026-02-01,Union Berlin,USR-20215,Scout User 2,Scout,2026-01-06,12,13,36
+2026-02-01,Union Berlin,USR-20216,Scout User 3,Scout;Squad Manager,2026-01-14,15,12,27
+2026-02-01,Union Berlin,USR-20217,Scout User 4,Scout,2026-01-08,16,14,27
+2026-02-01,Union Berlin,USR-20218,Scout User 5,Scout;Club2Club,2026-01-27,12,12,39
+2026-02-01,Union Berlin,USR-20219,Scout User 6,Scout,2026-01-22,10,11,31
+2026-02-01,Union Berlin,USR-20220,Scout User 7,Scout,2026-01-13,14,10,43
+2026-02-01,Union Berlin,USR-20221,Squad Manager User 8,Scout;Squad Manager,2026-01-26,8,7,18
+2026-02-01,Union Berlin,USR-20222,Squad Manager User 9,Scout;Squad Manager,2026-01-27,12,6,24
+2026-02-01,Union Berlin,USR-20223,Squad Manager User 10,Scout;Squad Manager,2026-01-23,8,7,27
+2026-02-01,Union Berlin,USR-20224,Squad Planner User 11,Scout;Squad Planner,2026-01-06,6,6,19
+2026-02-01,Union Berlin,USR-20225,Squad Planner User 12,Scout;Squad Planner,2026-01-31,7,5,21
+2026-02-01,Union Berlin,USR-20226,Squad Planner User 13,Scout;Squad Planner,2026-01-06,7,8,28
+2026-02-01,Union Berlin,USR-20227,Club2Club User 14,Scout;Club2Club;Admin,2026-01-21,8,8,15
+2026-02-01,Union Berlin,USR-20228,Club2Club User 15,Scout;Club2Club,2026-01-09,7,5,13
+2026-03-01,Union Berlin,USR-20214,Admin User 1,Scout;Admin,2026-02-14,15,16,39
+2026-03-01,Union Berlin,USR-20215,Scout User 2,Scout,2026-02-23,18,14,34
+2026-03-01,Union Berlin,USR-20216,Scout User 3,Scout;Squad Manager,2026-02-22,13,10,34
+2026-03-01,Union Berlin,USR-20217,Scout User 4,Scout,2026-02-28,11,12,38
+2026-03-01,Union Berlin,USR-20218,Scout User 5,Scout;Club2Club,2026-02-13,13,8,28
+2026-03-01,Union Berlin,USR-20219,Scout User 6,Scout,2026-02-22,15,14,28
+2026-03-01,Union Berlin,USR-20220,Scout User 7,Scout,2026-03-01,18,12,32
+2026-03-01,Union Berlin,USR-20221,Squad Manager User 8,Scout;Squad Manager,2026-02-02,13,11,18
+2026-03-01,Union Berlin,USR-20222,Squad Manager User 9,Scout;Squad Manager,2026-02-01,13,6,27
+2026-03-01,Union Berlin,USR-20223,Squad Manager User 10,Scout;Squad Manager,2026-02-24,9,5,20
+2026-03-01,Union Berlin,USR-20224,Squad Planner User 11,Scout;Squad Planner,2026-02-10,11,7,14
+2026-03-01,Union Berlin,USR-20225,Squad Planner User 12,Scout;Squad Planner,2026-02-20,9,8,16
+2026-03-01,Union Berlin,USR-20226,Squad Planner User 13,Scout;Squad Planner,2026-02-04,5,5,18
+2026-03-01,Union Berlin,USR-20227,Club2Club User 14,Scout;Club2Club;Admin,2026-02-24,11,7,13
+2026-03-01,Union Berlin,USR-20228,Club2Club User 15,Scout;Club2Club,2026-02-02,11,4,23
+2026-02-01,FC Augsburg,USR-20229,Admin User 1,Scout;Admin;Squad Planner,2026-01-20,17,15,42
+2026-02-01,FC Augsburg,USR-20230,Scout User 2,Scout,2026-01-14,10,11,30
+2026-02-01,FC Augsburg,USR-20231,Scout User 3,Scout,2026-01-17,16,11,31
+2026-02-01,FC Augsburg,USR-20232,Scout User 4,Scout,2026-01-12,10,12,35
+2026-02-01,FC Augsburg,USR-20233,Scout User 5,Scout,2026-01-11,12,12,33
+2026-02-01,FC Augsburg,USR-20234,Scout User 6,Scout,2026-01-31,17,12,37
+2026-02-01,FC Augsburg,USR-20235,Scout User 7,Scout;Admin,2026-01-15,13,11,35
+2026-02-01,FC Augsburg,USR-20236,Squad Manager User 8,Scout;Squad Manager;Admin,2026-01-11,14,5,20
+2026-02-01,FC Augsburg,USR-20237,Squad Manager User 9,Scout;Squad Manager,2026-01-22,10,10,22
+2026-02-01,FC Augsburg,USR-20238,Squad Planner User 10,Scout;Squad Planner,2026-01-29,7,5,18
+2026-02-01,FC Augsburg,USR-20239,Club2Club User 11,Scout;Club2Club,2026-01-22,9,5,13
+2026-02-01,FC Augsburg,USR-20240,Club2Club User 12,Scout;Club2Club;Squad Planner,2026-01-25,5,8,28
+2026-03-01,FC Augsburg,USR-20229,Admin User 1,Scout;Admin;Squad Planner,2026-02-02,22,17,48
+2026-03-01,FC Augsburg,USR-20230,Scout User 2,Scout,2026-02-15,12,12,39
+2026-03-01,FC Augsburg,USR-20231,Scout User 3,Scout,2026-02-02,16,12,29
+2026-03-01,FC Augsburg,USR-20232,Scout User 4,Scout,2026-02-08,14,11,27
+2026-03-01,FC Augsburg,USR-20233,Scout User 5,Scout,2026-02-27,14,13,38
+2026-03-01,FC Augsburg,USR-20234,Scout User 6,Scout,2026-03-01,10,11,28
+2026-03-01,FC Augsburg,USR-20235,Scout User 7,Scout;Admin,2026-02-05,11,10,39
+2026-03-01,FC Augsburg,USR-20236,Squad Manager User 8,Scout;Squad Manager;Admin,2026-02-19,6,6,31
+2026-03-01,FC Augsburg,USR-20237,Squad Manager User 9,Scout;Squad Manager,2026-02-13,11,6,20
+2026-03-01,FC Augsburg,USR-20238,Squad Planner User 10,Scout;Squad Planner,2026-02-20,11,10,28
+2026-03-01,FC Augsburg,USR-20239,Club2Club User 11,Scout;Club2Club,2026-02-09,7,7,26
+2026-03-01,FC Augsburg,USR-20240,Club2Club User 12,Scout;Club2Club;Squad Planner,2026-02-03,4,3,12
+2026-02-01,SV Darmstadt,USR-20241,Scout User 1,Scout;Admin,2026-01-09,16,14,40
+2026-02-01,SV Darmstadt,USR-20242,Scout User 2,Scout,2026-01-03,17,12,34
+2026-02-01,SV Darmstadt,USR-20243,Scout User 3,Scout;Squad Manager,2026-01-14,13,13,43
+2026-02-01,SV Darmstadt,USR-20244,Scout User 4,Scout,2026-01-05,18,14,40
+2026-02-01,SV Darmstadt,USR-20245,Squad Manager User 5,Scout;Squad Manager,2026-01-11,14,8,25
+2026-02-01,SV Darmstadt,USR-20246,Squad Manager User 6,Scout;Squad Manager;Admin;Club2Club,2026-01-06,10,9,31
+2026-02-01,SV Darmstadt,USR-20247,Squad Planner User 7,Scout;Squad Planner,2026-01-07,12,5,27
+2026-02-01,SV Darmstadt,USR-20248,Squad Planner User 8,Scout;Squad Planner,2026-01-10,9,8,17
+2026-02-01,SV Darmstadt,USR-20249,Club2Club User 9,Scout;Club2Club;Admin,2026-01-27,8,6,24
+2026-02-01,SV Darmstadt,USR-20250,Club2Club User 10,Scout;Club2Club,2026-01-30,5,4,21
+2026-03-01,SV Darmstadt,USR-20241,Scout User 1,Scout;Admin,2026-02-17,14,10,39
+2026-03-01,SV Darmstadt,USR-20242,Scout User 2,Scout,2026-02-03,13,9,43
+2026-03-01,SV Darmstadt,USR-20243,Scout User 3,Scout;Squad Manager,2026-02-21,15,8,29
+2026-03-01,SV Darmstadt,USR-20244,Scout User 4,Scout,2026-02-25,10,10,32
+2026-03-01,SV Darmstadt,USR-20245,Squad Manager User 5,Scout;Squad Manager,2026-02-20,13,5,33
+2026-03-01,SV Darmstadt,USR-20246,Squad Manager User 6,Scout;Squad Manager;Admin;Club2Club,2026-01-31,6,7,20
+2026-03-01,SV Darmstadt,USR-20247,Squad Planner User 7,Scout;Squad Planner,2026-02-26,9,5,20
+2026-03-01,SV Darmstadt,USR-20248,Squad Planner User 8,Scout;Squad Planner,2026-02-18,12,7,29
+2026-03-01,SV Darmstadt,USR-20249,Club2Club User 9,Scout;Club2Club;Admin,2026-02-28,8,7,23
+2026-03-01,SV Darmstadt,USR-20250,Club2Club User 10,Scout;Club2Club,2026-02-02,5,5,15
+2026-02-01,FC Heidenheim,USR-20251,Admin User 1,Scout;Admin,2026-01-06,19,17,43
+2026-02-01,FC Heidenheim,USR-20252,Scout User 2,Scout,2026-01-30,10,11,30
+2026-02-01,FC Heidenheim,USR-20253,Scout User 3,Scout;Admin;Squad Manager,2026-01-05,18,8,34
+2026-02-01,FC Heidenheim,USR-20254,Scout User 4,Scout;Squad Manager,2026-01-07,15,12,39
+2026-02-01,FC Heidenheim,USR-20255,Scout User 5,Scout,2026-01-04,15,10,32
+2026-02-01,FC Heidenheim,USR-20256,Squad Manager User 6,Scout;Squad Manager,2026-01-30,11,8,31
+2026-02-01,FC Heidenheim,USR-20257,Squad Manager User 7,Scout;Squad Manager,2026-01-22,12,9,26
+2026-02-01,FC Heidenheim,USR-20258,Squad Planner User 8,Scout;Squad Planner;Club2Club,2026-01-19,11,4,18
+2026-03-01,FC Heidenheim,USR-20251,Admin User 1,Scout;Admin,2026-02-06,19,14,45
+2026-03-01,FC Heidenheim,USR-20252,Scout User 2,Scout,2026-02-22,15,9,32
+2026-03-01,FC Heidenheim,USR-20253,Scout User 3,Scout;Admin;Squad Manager,2026-03-01,15,14,42
+2026-03-01,FC Heidenheim,USR-20254,Scout User 4,Scout;Squad Manager,2026-02-19,11,8,27
+2026-03-01,FC Heidenheim,USR-20255,Scout User 5,Scout,2026-02-18,10,8,38
+2026-03-01,FC Heidenheim,USR-20256,Squad Manager User 6,Scout;Squad Manager,2026-02-18,10,11,20
+2026-03-01,FC Heidenheim,USR-20257,Squad Manager User 7,Scout;Squad Manager,2026-02-09,11,10,23
+2026-03-01,FC Heidenheim,USR-20258,Squad Planner User 8,Scout;Squad Planner;Club2Club,2026-02-06,10,5,19
